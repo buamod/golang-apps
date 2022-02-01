@@ -1,4 +1,3 @@
-# golang practice
+# golang apps
 
-
-Practice golang with apps
+Random golang apps
